@@ -1,0 +1,13 @@
+*-debug.log
+*-error.log
+/.nyc_output
+/dist
+/lib
+/package-lock.json
+/tmp
+node_modules
+*.tgz
+
+.data/save
+.data/remove
+yarn.lock
